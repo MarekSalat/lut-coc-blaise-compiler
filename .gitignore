@@ -229,3 +229,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.gz
+*.xlsx
+*.docx
+opt/doc.pdf
